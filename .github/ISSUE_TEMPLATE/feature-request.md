@@ -1,6 +1,6 @@
 ---
 name: "\U0001F680Feature request"
-about: Suggest a feature for OWASP Juice Shop
+about: Suggest a feature for Total Recall - Memory Vacations
 title: '[🚀] '
 labels: feature
 assignees: ''

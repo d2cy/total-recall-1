@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -43,7 +43,7 @@ export class TwoFactorAuthComponent {
   public totpSecret?: string
   private setupToken?: string
 
-  private appName = 'OWASP Juice Shop'
+  private appName = 'Total Recall - Memory Vacations'
 
   constructor (private readonly twoFactorAuthService: TwoFactorAuthService, private readonly configurationService: ConfigurationService, private readonly snackBar: MatSnackBar, private readonly translateService: TranslateService, private readonly snackBarHelperService: SnackBarHelperService) {}
 

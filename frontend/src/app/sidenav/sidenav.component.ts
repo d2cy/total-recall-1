@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -21,7 +21,7 @@ import { roles } from '../roles'
   styleUrls: ['./sidenav.component.scss']
 })
 export class SidenavComponent implements OnInit {
-  public applicationName = 'OWASP Juice Shop'
+  public applicationName = 'Total Recall - Memory Vacations'
   public showGitHubLink = true
   public userEmail = ''
   public scoreBoardVisible: boolean = false

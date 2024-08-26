@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41BBug report"
-about: Report a bug in OWASP Juice Shop
+about: Report a bug in Total Recall - Memory Vacations
 title: '[🐛] '
 labels: bug
 assignees: ''

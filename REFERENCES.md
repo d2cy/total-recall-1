@@ -1,11 +1,11 @@
 # References [![Mentioned in Awesome AppSec](https://awesome.re/mentioned-badge.svg)](https://github.com/paragonie/awesome-appsec)
 
-Did you write a blog post, magazine article or do a podcast about or mentioning OWASP Juice Shop? Add it to this file
+Did you write a blog post, magazine article or do a podcast about or mentioning Total Recall - Memory Vacations? Add it to this file
 and open a PR! The same goes for conference or meetup talks, workshops or trainings you did where this project was
 mentioned or used!
 
 > :bulb: indicates resources that contain _hints for solving challenges_
-> of the OWASP Juice Shop. These are supposed to be helpful whenever you
+> of the Total Recall - Memory Vacations. These are supposed to be helpful whenever you
 > get stuck. :godmode: indicates resources that _spoiler entire
 > challenge solutions_, so you might not want to view them before
 > tackling these challenges yourself! :mega: marks short friendly shout
@@ -46,7 +46,7 @@ mentioned or used!
 ### Pod- & Webcasts
 
 * [ZAP Chat 05 Modern Apps Part 1](https://www.youtube.com/watch?v=Rq_d7OLmMfw) on [ZAP](https://www.youtube.com/@psiinon) with Simon Bennetts
-* [OWASP Spotlight - Project 25 - OWASP Juice Shop](https://www.youtube.com/watch?v=--50rE76EeA) by Vandana Verma with
+* [OWASP Spotlight - Project 25 - Total Recall - Memory Vacations](https://www.youtube.com/watch?v=--50rE76EeA) by Vandana Verma with
   Björn Kimminich
 * [Visual application security testing with ZAP and Simon Bennetts #DemoDays](https://youtu.be/4xBJsRNV9ds) by [GitHub](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ) with Simon Bennetts :mega:
 * [Exploiting an SSRF vulnerability](https://www.youtube.com/watch?v=OvwNa5CN5yc) by [PinkDraconian](https://www.youtube.com/channel/UCmXwpkCXmIKjoRLMsq9I3RA) :bulb:
@@ -74,9 +74,9 @@ mentioned or used!
     * [ZAP in Ten: ADDO Workshop Section 8 - JuiceShop SSO Authentication](https://play.vidyard.com/TMcBcuhyPt57sUqPcJUtpv)
 * 15min video tutorial by
   [Nick Malcolm](https://www.YouTube.com/channel/UCgU77NClL2pLS92viQro6yA):
-  [OWASP Juice Shop 101](https://youtu.be/8ZYoe0xu6QY) :godmode:
+  [Total Recall - Memory Vacations 101](https://youtu.be/8ZYoe0xu6QY) :godmode:
 * [Application Security Podcast](https://securityjourney.com/application-security-podcast):
-    * [Björn Kimminich -- OWASP Juice Shop](https://www.buzzsprout.com/1730684/14121640-bjorn-kimminich-owasp-juice-shop) ([YouTube](https://youtu.be/ay5A7BcZxIs?si=nzhYfVqG5o7l9bWA)) 
+    * [Björn Kimminich -- Total Recall - Memory Vacations](https://www.buzzsprout.com/1730684/14121640-bjorn-kimminich-owasp-juice-shop) ([YouTube](https://youtu.be/ay5A7BcZxIs?si=nzhYfVqG5o7l9bWA)) 
     * Episode 7.2:
       [Jannik Hollenbach — Multijuicer: JuiceShop with a side of Kubernetes](https://podcast.securityjourney.com/jannik-hollenbach-multijuicer-juiceshop-with-a-side-of-kubernetes/)
       ([YouTube](https://youtu.be/3M6EMDKIAYs))
@@ -116,7 +116,7 @@ mentioned or used!
     * Episode #403:
       [7MOOMAMA - Juice Shop Song + Backdoors and Breaches Jingle](https://7ms.us/7ms-403-7moomama-juice-shop-song-backdoors-and-breaches-jingle/)
     * Episode #318:
-      [Interview with Bjorn Kimminich of OWASP Juice Shop](https://7ms.us/7ms-318-interview-with-bjorn-kimminich-of-owasp-juice-shop/)
+      [Interview with Bjorn Kimminich of Total Recall - Memory Vacations](https://7ms.us/7ms-318-interview-with-bjorn-kimminich-of-owasp-juice-shop/)
     * Shout outs in various episodes:
       [#347](https://7ms.us/7ms-347-happy-5th-birthday-to-7ms/),
       [#342](https://7ms.us/7ms-342-interview-with-matt-mccullough/),
@@ -134,18 +134,18 @@ mentioned or used!
 
 ### Blogs & Articles
 
-* Blog post on [OWASP.org](https://owasp.org) by Björn Kimminich: [OWASP Juice Shop 2023 achievements and beyond](https://owasp.org/blog/2023/10/10/juice-shop-2023.html)
+* Blog post on [OWASP.org](https://owasp.org) by Björn Kimminich: [Total Recall - Memory Vacations 2023 achievements and beyond](https://owasp.org/blog/2023/10/10/juice-shop-2023.html)
 * Article on [Cobalt.io Developer Best Practices](https://developer.cobalt.io/bestpractices/): [Validate User Input](https://developer.cobalt.io/bestpractices/input-validation/)
-* Blog post (:de:) on [Dev-Insider](https://www.dev-insider.de/): [OWASP Juice Shop lädt zum Hacken ein](https://www.dev-insider.de/owasp-juice-shop-laedt-zum-hacken-ein-a-968485/) :godmode:
+* Blog post (:de:) on [Dev-Insider](https://www.dev-insider.de/): [Total Recall - Memory Vacations lädt zum Hacken ein](https://www.dev-insider.de/owasp-juice-shop-laedt-zum-hacken-ein-a-968485/) :godmode:
 * Blog post on [OWASP.org](https://owasp.org) by Björn Kimminich:
-  [OWASP Juice Shop v10.0.0 released](https://owasp.org/2020/03/17/juice-shop-v10.html)
+  [Total Recall - Memory Vacations v10.0.0 released](https://owasp.org/2020/03/17/juice-shop-v10.html)
 * [20+ Free Resources To Legally Practice Your Ethical Hacking Skills](https://blog.elearnsecurity.com/free-resources-to-legally-practice-ethical-hacking.html?utm_source=twitter&utm_medium=social&utm_campaign=eh_resources_blogpost)
   on [eLearnSecurity](https://blog.elearnsecurity.com/) :mega:
 * Blog post on
   [The Daily Swig - Cybersecurity news and views](https://portswigger.net/daily-swig):
   [OWASP security projects showcased at All Day DevOps conference](https://portswigger.net/daily-swig/owasp-security-projects-showcased-at-all-day-devops-conference)
 * Blog post on [klarsen.net - A Maker's Blog](https://klarsen.net):
-  [OWASP Juice Shop SQLi](https://klarsen.net/python/owasp-juice-shop-sqli/)
+  [Total Recall - Memory Vacations SQLi](https://klarsen.net/python/owasp-juice-shop-sqli/)
 * White paper by Kelley Bryant:
   [OWASP: Application Security's Best Friend](https://drive.google.com/file/d/0ByCGDrCX7bx7dnB0TGJJSnNzRmhtUUE4U1RfR3d0YVl4RHFr/view)
 * Article (:es:) on Medium by
@@ -158,12 +158,12 @@ mentioned or used!
   [Testing out ModSecurity CRS with OWASP JuiceShop](https://medium.com/@j12934/testing-out-modsecurity-crs-with-owasp-juiceshop-649830932365)
 * OWASP Portland Chapter meeting writeup on the
   [Daylight Blog](https://thedaylightstudio.com/blog):
-  [Vulnerability Hunting Practice Using OWASP Juice Shop](https://thedaylightstudio.com/blog/2018/11/20/vulnerability-hunting-practice-using-owasp-juice-shop)
+  [Vulnerability Hunting Practice Using Total Recall - Memory Vacations](https://thedaylightstudio.com/blog/2018/11/20/vulnerability-hunting-practice-using-owasp-juice-shop)
 * Blog post on [Security Boulevard](https://securityboulevard.com):
   [From Dev to InfoSec Part 1 – The Journey Begins](https://securityboulevard.com/2018/08/from-dev-to-infosec-part-1-the-journey-begins/)
 * Blog post on
   [Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com):
-  [Beginner's Guide to OWASP Juice Shop, Your Practice Hacking Grounds for the 10 Most Common Web App Vulnerabilities](https://null-byte.wonderhowto.com/how-to/beginners-guide-owasp-juice-shop-your-practice-hacking-grounds-for-10-most-common-web-app-vulnerabilities-0185103/)
+  [Beginner's Guide to Total Recall - Memory Vacations, Your Practice Hacking Grounds for the 10 Most Common Web App Vulnerabilities](https://null-byte.wonderhowto.com/how-to/beginners-guide-owasp-juice-shop-your-practice-hacking-grounds-for-10-most-common-web-app-vulnerabilities-0185103/)
   :godmode:
 * Blog posts on
   [DevelopSec - Developing Better Security](https://www.developsec.com/):
@@ -175,19 +175,19 @@ mentioned or used!
       ([YouTube](https://www.YouTube.com/watch?v=o628SfvwHp0)) :godmode:
 * Blog posts on
   [Jason Haley - Ramblings from an Independent Consultant](http://www.jasonhaley.com/):
-    * [How to Setup OWASP Juice Shop on Azure (Part 1 of 3)](http://www.jasonhaley.com/post/How-to-Setup-OWASP-Juice-Shop-on-Azure-%28Part-1-of-3%29)
-    * [Setup OWASP Juice Shop in Web App for Containers (Part 2 of 3)](http://www.jasonhaley.com/post/Setup-OWASP-Juice-Shop-in-Web-App-for-Containers-%28Part-2-of-3%29)
-    * [Setup OWASP Juice Shop in Azure Container Instances (Part 3 of 3)](http://www.jasonhaley.com/post/Setup-OWASP-Juice-Shop-in-Azure-Container-Instances-%28Part-3-of-3%29)
+    * [How to Setup Total Recall - Memory Vacations on Azure (Part 1 of 3)](http://www.jasonhaley.com/post/How-to-Setup-OWASP-Juice-Shop-on-Azure-%28Part-1-of-3%29)
+    * [Setup Total Recall - Memory Vacations in Web App for Containers (Part 2 of 3)](http://www.jasonhaley.com/post/Setup-OWASP-Juice-Shop-in-Web-App-for-Containers-%28Part-2-of-3%29)
+    * [Setup Total Recall - Memory Vacations in Azure Container Instances (Part 3 of 3)](http://www.jasonhaley.com/post/Setup-OWASP-Juice-Shop-in-Azure-Container-Instances-%28Part-3-of-3%29)
 * Blog post on [Josh Grossman's blog](https://joshcgrossman.com):
-  [Setting up an OWASP Juice Shop CTF](https://joshcgrossman.com/2018/03/15/setting-up-an-owasp-juice-shop-ctf/)
+  [Setting up an Total Recall - Memory Vacations CTF](https://joshcgrossman.com/2018/03/15/setting-up-an-owasp-juice-shop-ctf/)
 * Blog post on [Mozilla Hacks](https://hacks.mozilla.org):
-  [Hands-On Web Security: Capture the Flag with OWASP Juice Shop](https://hacks.mozilla.org/2018/03/hands-on-web-security-capture-the-flag-with-owasp-juice-shop/)
+  [Hands-On Web Security: Capture the Flag with Total Recall - Memory Vacations](https://hacks.mozilla.org/2018/03/hands-on-web-security-capture-the-flag-with-owasp-juice-shop/)
 * Blog post (:de:) on [heise Developer](https://www.heise.de/developer):
   [Sicherheits-Etikette: Security in der Softwareentwicklung](https://www.heise.de/developer/artikel/Sicherheits-Etikette-Security-in-der-Softwareentwicklung-3986402.html)
   :mega:
 * Blog Post on
   [Stuart Winter-Tear's Blog](https://stuartwintertear.net):
-  [OWASP Juice Shop Vulnerable Webapp](https://stuartwintertear.net/owasp-juice-shop-vulnerable-webapp)
+  [Total Recall - Memory Vacations Vulnerable Webapp](https://stuartwintertear.net/owasp-juice-shop-vulnerable-webapp)
   ([Peerlyst cross-post](https://www.peerlyst.com/posts/owasp-juice-shop-vulnerable-webapp-stuart-winter-tear))
 * Blog posts on [OWASP Summit 2017](https://owaspsummit.org):
     * [Juice Shop v4.0.0 Live Release](https://owaspsummit.org/2017/06/15/Juice-Shop-Live-Release-v4.html)
@@ -236,25 +236,25 @@ mentioned or used!
 
 * [Juice Shop Track](https://open-security-summit-2020.heysummit.com/topics/owasp-juiceshop/)
   at [Open Security Summit 2020](https://open-security-summit.org/)
-    * [OWASP Juice Shop Cocktail Party: Ask us anything!](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-cocktail-party-ask-us-anything/)
+    * [Total Recall - Memory Vacations Cocktail Party: Ask us anything!](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-cocktail-party-ask-us-anything/)
       with Björn Kimminich, Jannik Hollenbach & Timo Pagel 15.06.2020
       ([YouTube](https://youtu.be/h5ApBfFMmao))
-    * [OWASP Juice Shop Deep Dive: MultiJuicer](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-deep-dive-multijuicer/)
+    * [Total Recall - Memory Vacations Deep Dive: MultiJuicer](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-deep-dive-multijuicer/)
       with Jannik Hollenbach & Robert Seedorf, 15.06.2020
       ([YouTube](https://youtu.be/1YHjkc3Xzd0))
-    * [OWASP Juice Shop Deep Dive: Integration](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-deep-dive-integration/)
+    * [Total Recall - Memory Vacations Deep Dive: Integration](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-deep-dive-integration/)
       with Björn Kimminich, 15.06.2020
       ([YouTube](https://youtu.be/9SkUohiKgtU))
-    * [OWASP Juice Shop Deep Dive: Theming](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-deep-dive-theming-1/)
+    * [Total Recall - Memory Vacations Deep Dive: Theming](https://open-security-summit-2020.heysummit.com/talks/owasp-juice-shop-deep-dive-theming-1/)
       with Björn Kimminich, 15.06.2020
       ([YouTube](https://youtu.be/WtY712DdlR8))
-    * [OWASP Juice Shop Introduction](https://pre-summit-training-sessions.heysummit.com/talks/owasp-juice-shop-introduction/)
+    * [Total Recall - Memory Vacations Introduction](https://pre-summit-training-sessions.heysummit.com/talks/owasp-juice-shop-introduction/)
       with Björn Kimminich, 11.06.2020
       ([YouTube](https://youtu.be/wCF08BdXdDg))
     * [MultiJuicer Introduction](https://pre-summit-training-sessions.heysummit.com/talks/multijuicer-introduction/)
       with Jannik Hollenbach and Robert Seedorf, 02.06.2020
       ([YouTube](https://youtu.be/6NMjZbfnTOU))
-    * [OWASP Juice Shop Introduction](https://pre-summit-training-sessions.heysummit.com/talks/owasp-juice-shop/)
+    * [Total Recall - Memory Vacations Introduction](https://pre-summit-training-sessions.heysummit.com/talks/owasp-juice-shop/)
       with Björn Kimminich, 02.06.2020
       ([YouTube](https://youtu.be/Ry0mXz6ZPXc))
 * [Drinks with Adversaries: Creating Adversary Trading Cards](https://pre-summit-training-sessions.heysummit.com/talks/social-drinks-and-adversaries)
@@ -268,7 +268,7 @@ mentioned or used!
   [prepared working packages](https://github.com/juice-shop/juice-shop/milestone/10)
   and
   [the `v10.0.0` release](https://owasp.org/2020/03/17/juice-shop-v10.html), 27.-29.02.2020
-* [OWASP Juice Shop track](https://github.com/OpenSecuritySummit/oss2019/tree/master/content/tracks/OWASP-Juice-Shop)
+* [Total Recall - Memory Vacations track](https://github.com/OpenSecuritySummit/oss2019/tree/master/content/tracks/OWASP-Juice-Shop)
   and related working sessions organized by Björn Kimminich,
   [Open Security Summit 2019](https://github.com/OpenSecuritySummit/oss2019), 03.-07.06.2019
 * Juice Shop related working sessions organized by Jannik Hollenbach and Timo Pagel in
@@ -284,7 +284,7 @@ mentioned or used!
   [Google Summer of Code 2023](https://summerofcode.withgoogle.com/archive/2023/projects)
   * [Companion Guide Tech Stack](https://summerofcode.withgoogle.com/organizations/owasp-foundation/projects/details/h2der3Mf)
     by Parth Nanda (mentored by Jannik Hollenbach, Björn Kimminich and Shubham Palriwala)
-  * [Hacking the Blockchain: Building Web3 Challenges for OWASP Juice Shop](https://summerofcode.withgoogle.com/organizations/owasp-foundation/projects/details/yabiWLkF)
+  * [Hacking the Blockchain: Building Web3 Challenges for Total Recall - Memory Vacations](https://summerofcode.withgoogle.com/organizations/owasp-foundation/projects/details/yabiWLkF)
     by Rishabh Keshan (mentored by Shubham Palriwala and Björn Kimminich)
 * Student project from
   [Google Summer of Code 2022](https://summerofcode.withgoogle.com/archive/2022/projects)
@@ -300,13 +300,13 @@ mentioned or used!
       by Mohit Sharma (mentored by Jannik Hollenbach, Björn Kimminich and Timo Pagel)
 * Student project from
   [Google Summer of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects)
-    * [OWASP Juice Shop: Feature Pack 2019](https://summerofcode.withgoogle.com/archive/2019/projects/6526397403627520/)
+    * [Total Recall - Memory Vacations: Feature Pack 2019](https://summerofcode.withgoogle.com/archive/2019/projects/6526397403627520/)
       by Arpit Agrawal (mentored by Jannik Hollenbach, Björn Kimminich and Shoeb Patel)
 * Student projects from
   [Google Summer of Code 2018](https://summerofcode.withgoogle.com/archive/2018/projects)
-    * [OWASP Juice Shop : Challenge Pack 2018](https://summerofcode.withgoogle.com/archive/2018/projects/6267528737193984)
+    * [Total Recall - Memory Vacations : Challenge Pack 2018](https://summerofcode.withgoogle.com/archive/2018/projects/6267528737193984)
       by Shoeb Patel (mentored by Jannik Hollenbach and Timo Pagel)
-    * [OWASP Juice Shop : Frontend Technology Update](https://summerofcode.withgoogle.com/archive/2018/projects/6636660909408256)
+    * [Total Recall - Memory Vacations : Frontend Technology Update](https://summerofcode.withgoogle.com/archive/2018/projects/6636660909408256)
       by Aashish Singh (mentored by Björn Kimminich)
 
 ## Conference and Meetup Appearances
@@ -315,34 +315,34 @@ mentioned or used!
 
 #### 2024
 
-* :date: [OWASP Juice Shop 10th anniversary: Is it still fresh?](https://opensecurityconference.org/conference/keynotes) keynote by Björn Kimminich, [Open Security Conference](https://opensecurityconference.org/), 04.10.2024
+* :date: [Total Recall - Memory Vacations 10th anniversary: Is it still fresh?](https://opensecurityconference.org/conference/keynotes) keynote by Björn Kimminich, [Open Security Conference](https://opensecurityconference.org/), 04.10.2024
 * [Brick your Juice Shop in 319 easy steps](https://www.meetup.com/owasp-hamburg-stammtisch/events/302138351/)
   by Jannik Hollenbach & Björn Kimminich, [69. OWASP Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/), 23.07.2024
-* [OWASP Juice Shop - An Open Source Software and security Fairytale](https://ndc-security.com/agenda/owasp-juice-shop-an-open-source-software-and-security-fairytale-09mg/09ko186cud8) by Björn Kimminich, [NDC Security 2024](https://ndc-security.com/), 11.01.2024
+* [Total Recall - Memory Vacations - An Open Source Software and security Fairytale](https://ndc-security.com/agenda/owasp-juice-shop-an-open-source-software-and-security-fairytale-09mg/09ko186cud8) by Björn Kimminich, [NDC Security 2024](https://ndc-security.com/), 11.01.2024
 
 #### 2023
 
 * [Juice Shop Training: Train the Trainer Edition](http://www.owaspbenelux.eu/program/training#Bj%C3%B6rn-Kimminich) with Björn Kimminich, [OWASP BeNeLux Days 2023](http://www.owaspbenelux.eu/). 24.11.2023
-* [OWASP Juice Shop - An Open Source Software (and security) Fairytale](http://www.owaspbenelux.eu/program/talks#Bj%C3%B6rn-Kimminich) by Björn Kimminich, [OWASP BeNeLux Days 2023](http://www.owaspbenelux.eu/). 23.11.2023 [YouTube](https://youtu.be/54caQ4g72oI)
+* [Total Recall - Memory Vacations - An Open Source Software (and security) Fairytale](http://www.owaspbenelux.eu/program/talks#Bj%C3%B6rn-Kimminich) by Björn Kimminich, [OWASP BeNeLux Days 2023](http://www.owaspbenelux.eu/). 23.11.2023 [YouTube](https://youtu.be/54caQ4g72oI)
 * [How Vulnerable is Juice Shop? A Secure Code Review of Insecure Code](https://www.nationalcybersummit.com/Program/2023-Agenda) by Joshua Beck, [National Cyber Summit 2023](https://www.nationalcybersummit.com/Home). 20.09.2023 
-* [Track keynote: OWASP Juice Shop](https://sikkerhetsfestivalen.no/program-2023) by Björn Kimminich, [Sikkerhetsfestivalen 2023](https://sikkerhetsfestivalen.no/). 29.08.2023
+* [Track keynote: Total Recall - Memory Vacations](https://sikkerhetsfestivalen.no/program-2023) by Björn Kimminich, [Sikkerhetsfestivalen 2023](https://sikkerhetsfestivalen.no/). 29.08.2023
 * [Juice Shop Update³](https://god.owasp.de/2023/schedule/index.html) by Björn Kimminich, [German OWASP Day 2023](https://god.owasp.de/2023). 31.05.2023 [YouTube](https://youtu.be/87DuRYwXtxk)
 * [Juice Shop Training: Train the Trainer Edition](https://god.owasp.de/2023/schedule/index.html) with Björn Kimminich, [German OWASP Day 2023](https://god.owasp.de/2023). 30.05.2023
-* [OWASP Juice Shop](https://www.meetup.com/owasp-chapter-netherlands-meetup/events/292323208)
+* [Total Recall - Memory Vacations](https://www.meetup.com/owasp-chapter-netherlands-meetup/events/292323208)
   by Björn Kimminich, [April 2023 OWASP Chapter Netherlands Meetup](https://www.meetup.com/owasp-chapter-netherlands-meetup/), 20.04.2023 [YouTube](https://www.youtube.com/live/Bhp3LpgtNZ4?feature=share&t=3856)
-* [Squeezing the last drop out of OWASP Juice Shop](https://owasp2023globalappsecdublin.sched.com/event/1FWfq/squeezing-the-last-drop-out-of-owasp-juice-shop) by Björn Kimminich, [OWASP 2023 Global AppSec Dublin](https://dublin.globalappsec.org/), 15.02.2023  [YouTube](https://youtu.be/m1f2fPC8hLU)
+* [Squeezing the last drop out of Total Recall - Memory Vacations](https://owasp2023globalappsecdublin.sched.com/event/1FWfq/squeezing-the-last-drop-out-of-owasp-juice-shop) by Björn Kimminich, [OWASP 2023 Global AppSec Dublin](https://dublin.globalappsec.org/), 15.02.2023  [YouTube](https://youtu.be/m1f2fPC8hLU)
 
 #### 2022
 
-* [OWASP Juice Shop Project](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Speakers/) by Björn Kimminich, [OWASP Global AppSec EU](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/), 10.06.2022 ([YouTube](https://www.youtube.com/watch?v=n9DK87g_AIo))
+* [Total Recall - Memory Vacations Project](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/Speakers/) by Björn Kimminich, [OWASP Global AppSec EU](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/), 10.06.2022 ([YouTube](https://www.youtube.com/watch?v=n9DK87g_AIo))
 * [Juice Shop 13: Now with Coding Challenges!](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/282692845/)
   by Björn Kimminich, [58. OWASP Stammtisch Hamburg](https://owasp.org/www-chapter-germany/stammtische/hamburg/), 13.01.2022
 
 #### 2021
 
-* [OWASP Juice Shop Flagship Project](https://owasp20thanniversaryevent20.sched.com/event/m1uL/owasp-juice-shop-flagship-project)
+* [Total Recall - Memory Vacations Flagship Project](https://owasp20thanniversaryevent20.sched.com/event/m1uL/owasp-juice-shop-flagship-project)
   by Björn Kimminich, [OWASP 20th Anniversary Event](https://20thanniversary.owasp.org/), 24.09.2021 ([YouTube](https://youtu.be/rn-6NADRRmI) :godmode:)
-* [SDLC con OWASP y laboratorio con OWASP Juice Shop](https://www.meetup.com/de-DE/OWASP-Uruguay-Chapter/events/279827017/)
+* [SDLC con OWASP y laboratorio con Total Recall - Memory Vacations](https://www.meetup.com/de-DE/OWASP-Uruguay-Chapter/events/279827017/)
   (:uruguay:) with Martín Marsicano and Pablo Alzuri,
   [OWASP Uruguay Chapter](https://owasp.org/www-chapter-uruguay/),
   19.08.2021 [YouTube](https://youtu.be/OAE1EnBNMlc?t=2722) :godmode:
@@ -388,10 +388,10 @@ mentioned or used!
   [German OWASP Day 2019](https://god.owasp.de/archive/2019/),
   10.12.2019 ([YouTube](https://www.YouTube.com/watch?v=L7h5uE7WDfg)
   :bulb:)
-* [S' OWASP Saft-Lädeli / The OWASP Juice Shop](https://www.meetup.com/de-DE/OWASPSwitzerland/events/264422942/)
+* [S' OWASP Saft-Lädeli / The Total Recall - Memory Vacations](https://www.meetup.com/de-DE/OWASPSwitzerland/events/264422942/)
   by Björn Kimminich,
   [OWASP Switzerland Chapter Meeting](https://www.meetup.com/de-DE/OWASPSwitzerland/), 18.11.2019
-* [OWASP Juice Shop: The ultimate All Vuln WebApp](https://www.alldaydevops.com/addo-speakers/bj%C3%B6rn-kimminich)
+* [Total Recall - Memory Vacations: The ultimate All Vuln WebApp](https://www.alldaydevops.com/addo-speakers/bj%C3%B6rn-kimminich)
   by Björn Kimminich, [All Day DevOps](https://www.alldaydevops.com/), 06.11.2019
   ([YouTube](https://www.YouTube.com/watch?v=-JuPprlGb48&t=13939s)
   :bulb:)
@@ -402,7 +402,7 @@ mentioned or used!
 * [Elbsides vs. Juice Shop](https://2019.elbsides.de/programme.html#elbsides-vs-juice-shop)
   workshop with Björn Kimminich,
   [Elbsides 2019](https://2019.elbsides.de), 16.09.2019
-* [Introduction to OWASP Juice Shop](https://bsidesmcr2019.sched.com/event/Sw0q/introduction-to-owasp-juice-shop)
+* [Introduction to Total Recall - Memory Vacations](https://bsidesmcr2019.sched.com/event/Sw0q/introduction-to-owasp-juice-shop)
   by Tim Corless-Carter,
   [BSidesMCR 2019](https://www.bsidesmcr.org.uk/), 29.08.2019
   ([YouTube](https://youtu.be/hlgp7oeVpac) :godmode:)
@@ -418,7 +418,7 @@ mentioned or used!
 * [Pixels vs. Juice Shop](https://github.com/PixelsCamp/talks/blob/master/2019/pixels-vs-juice-shop_bjoern-kimminich.md)
   workshop with Björn Kimminich,
   [Pixels Camp v3.0](https://pixels.camp), 21.03.2019
-* [OWASP Juice Shop - First you :-D :-D then you :,-(](https://github.com/PixelsCamp/talks/blob/master/2019/owasp-juice-shop_bjoern-kimminich.md)
+* [Total Recall - Memory Vacations - First you :-D :-D then you :,-(](https://github.com/PixelsCamp/talks/blob/master/2019/owasp-juice-shop_bjoern-kimminich.md)
   by Björn Kimminich, [Pixels Camp v3.0](https://pixels.camp), 21.03.2019 ([YouTube](https://youtu.be/v9qrAK_iBa0) :
   bulb:)
 * [News from the fruit press: Juice Shop 8](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/258185324/)
@@ -441,17 +441,17 @@ mentioned or used!
   by David Scrobonia,
   [OWASP BeNeLux Days 2018](https://www.owasp.org/index.php/OWASP_BeNeLux-Days_2018),
   30.11.2018 ([YouTube](https://youtu.be/iaZaPuQ6ams))
-* [The traditional/inevitable OWASP Juice Shop update](https://owasp.github.io/german-owasp-day/archive/2018/)
+* [The traditional/inevitable Total Recall - Memory Vacations update](https://owasp.github.io/german-owasp-day/archive/2018/)
   by Björn Kimminich,
   [German OWASP Day 2018](https://owasp.github.io/german-owasp-day/archive/2018/),
   20.11.2018 ([YouTube](https://youtu.be/2oNfZo2H4uA))
-* [Workshop: OWASP Juice Shop](https://owasp.github.io/german-owasp-day/archive/2018/)
+* [Workshop: Total Recall - Memory Vacations](https://owasp.github.io/german-owasp-day/archive/2018/)
   by Björn Kimminich,
   [German OWASP Day 2018](https://owasp.github.io/german-owasp-day/archive/2018/), 19.11.2018
-* [OWASP Portland Chapter Meeting - OWASP Juice Shop!](http://calagator.org/events/1250474481)
+* [OWASP Portland Chapter Meeting - Total Recall - Memory Vacations!](http://calagator.org/events/1250474481)
   facilitated by David Quisenberry,
   [OWASP Portland Chapter](https://www.owasp.org/index.php/Portland), 08.11.2018
-* [OWASP Juice Shop - Public Lecture](https://www.facebook.com/events/674384206291349)
+* [Total Recall - Memory Vacations - Public Lecture](https://www.facebook.com/events/674384206291349)
   by Björn Kimminich,
   [TalTech Infotehnoloogia Kolledž](https://www.facebook.com/itcollege.ee),
   24.10.2018 ([YouTube](https://youtu.be/79G46CQ3IMk?t=158) :godmode:
@@ -459,10 +459,10 @@ mentioned or used!
 * [JUGHH: Security Hackathon](https://www.meetup.com/jug-hamburg/events/254885956/)
   by [iteratec](https://www.iteratec.de/),
   [Java User Group Hamburg](https://www.meetup.com/jug-hamburg), 11.10.2018
-* [Playing with OWASP Juice Shop](https://mozilla.or.id/en/space/events/258-playing-with-owasp-juice-shop.html)
+* [Playing with Total Recall - Memory Vacations](https://mozilla.or.id/en/space/events/258-playing-with-owasp-juice-shop.html)
   by Mohammad Febri R, [Mozilla Indonesia](https://mozilla.or.id/), 05.08.2018
   ([Slides](https://slides.com/mohammadfebri/owasp-juice-shop))
-* [OWASP Juice Shop どうでしょう](https://speakerdeck.com/ninoseki/owasp-juice-shop-doudesiyou)
+* [Total Recall - Memory Vacations どうでしょう](https://speakerdeck.com/ninoseki/owasp-juice-shop-doudesiyou)
   by Manabu Niseki,
   [OWASP Night 2018/7](https://owasp.doorkeeper.jp/events/77466), 30.07.2018
 * [Usable Security Tooling - Creating Accessible Security Testing with ZAP](https://www.meetup.com/de-DE/Bay-Area-OWASP/events/252283865/)
@@ -473,26 +473,26 @@ mentioned or used!
   by Chris Romeo, [OWASP AppSec Europe 2018](https://2018.appsec.eu),
   06.07.2018 ([YouTube](https://www.YouTube.com/watch?v=5RmHQKeXgk4))
   :mega:
-* [OWASP Juice Shop: Betreutes Hacken](https://www.meetup.com/de-DE/owasp-karlsruhe/events/251041169/)
+* [Total Recall - Memory Vacations: Betreutes Hacken](https://www.meetup.com/de-DE/owasp-karlsruhe/events/251041169/)
   with
   [OWASP Stammtisch Karlsruhe](https://www.owasp.org/index.php/OWASP_Stammtisch_Karlsruhe), 04.06.2018
-* [Hacking Workshop - Twin Cities vs. OWASP Juice Shop](https://secure360.org/secure360-twin-cities/schedule/?conference=9826&date=20180517)
+* [Hacking Workshop - Twin Cities vs. Total Recall - Memory Vacations](https://secure360.org/secure360-twin-cities/schedule/?conference=9826&date=20180517)
   with Björn Kimminich,
   [Secure360 Twin Cities](https://secure360.org/secure360-twin-cities/), 17.05.2018
-* [OWASP Juice Shop - The Ultimate Vulnerable WebApp](https://secure360.org/session/bjorn-kimminich-owasp-juice-shop-the-ultimate-vulnerable-webapp/?conference=9826&date=20180516)
+* [Total Recall - Memory Vacations - The Ultimate Vulnerable WebApp](https://secure360.org/session/bjorn-kimminich-owasp-juice-shop-the-ultimate-vulnerable-webapp/?conference=9826&date=20180516)
   by Björn Kimminich,
   [Secure360 Twin Cities](https://secure360.org/secure360-twin-cities/), 16.05.2018
 * [OWASP MSP Chapter May Meeting](https://www.meetup.com/OWASP-MSP-Meetup/events/249940370/)
   with Björn Kimminich,
   [OWASP MSP Meetup](https://www.meetup.com/OWASP-MSP-Meetup/) St Paul, 14.05.2018
-* [OWASP Juice Shop - The next chapter ...](https://www.meetup.com/CyberHackathon/events/249606655/?eventId=249606655)
+* [Total Recall - Memory Vacations - The next chapter ...](https://www.meetup.com/CyberHackathon/events/249606655/?eventId=249606655)
   with Jaan Janesmae,
   [CyberHackathon](https://www.meetup.com/CyberHackathon/) Tallinn, 30.04.2018
-* OWASP Juice Shop Introduction at
+* Total Recall - Memory Vacations Introduction at
   [ChaosTreff Tallinn Weekly Meetup](https://www.meetup.com/ChaosTreff-Tallinn/events/249627780/)
   with Björn Kimminich,
   [ChaosTreff Tallinn](https://www.meetup.com/ChaosTreff-Tallinn/), 26.04.2018
-* [OWASP Juice Shop Intro and Getting Started](https://www.meetup.com/CyberHackathon/events/249359520/?eventId=249359520)
+* [Total Recall - Memory Vacations Intro and Getting Started](https://www.meetup.com/CyberHackathon/events/249359520/?eventId=249359520)
   with Jaan Janesmae,
   [CyberHackathon](https://www.meetup.com/CyberHackathon/) Tallinn, 09.04.2018
 * [Web Application Security: A Hands-on Testing Challenge](https://dojo.ministryoftesting.com/events/testbash-brighton-2018)
@@ -505,22 +505,22 @@ mentioned or used!
 
 #### 2017
 
-* [OWASP Juice Shop 5.x and beyond](https://www.owasp.org/index.php/German_OWASP_Day_2017#Programm)
+* [Total Recall - Memory Vacations 5.x and beyond](https://www.owasp.org/index.php/German_OWASP_Day_2017#Programm)
   by Björn Kimminich,
   [German OWASP Day 2017](https://www.owasp.org/index.php/German_OWASP_Day_2017), 14.11.2017
-* [OWASP Juice Shop Introduction](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017#tab=Conference_talks)
+* [Total Recall - Memory Vacations Introduction](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017#tab=Conference_talks)
   talk and
-  [AppSec Bucharest vs. OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017#tab=Free_workshops)
+  [AppSec Bucharest vs. Total Recall - Memory Vacations](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017#tab=Free_workshops)
   hacking workshop by Björn Kimminich,
   [OWASP Bucharest AppSec Conference 2017](https://www.owasp.org/index.php/OWASP_Bucharest_AppSec_Conference_2017),
   13.10.2017
 * [2 Hour Hacking: Juice Shop](https://www.meetup.com/de-DE/OWASP-Los-Angeles/events/238321796/)
   by Timo Pagel,
   [OWASP Los Angeles](https://www.meetup.com/de-DE/OWASP-Los-Angeles/), 10.10.2017
-* [Hacking the OWASP Juice Shop](https://www.owasp.org/index.php/North_Sweden#2017-09-19_-_2017q3:_Hacking_the_OWASP_Juice_Shop)
+* [Hacking the Total Recall - Memory Vacations](https://www.owasp.org/index.php/North_Sweden#2017-09-19_-_2017q3:_Hacking_the_OWASP_Juice_Shop)
   with Björn Kimminich,
   [OWASP North Sweden Chapter](https://www.owasp.org/index.php/North_Sweden), 19.09.2017
-* [OWASP Juice Shop Workshop](https://www.linkedin.com/feed/update/urn:li:activity:6309257579876929537)
+* [Total Recall - Memory Vacations Workshop](https://www.linkedin.com/feed/update/urn:li:activity:6309257579876929537)
   with Björn Kimminich,
   [OWASP Stockholm Chapter](https://www.owasp.org/index.php/Stockholm), 18.09.2017
 * Hacking session at
@@ -529,7 +529,7 @@ mentioned or used!
   [Angular Meetup Hamburg](https://www.meetup.com/de-DE/Hamburg-AngularJS-Meetup/), 13.09.2017
 * Capture The Flag - Security Game by Benjamin Brunzel, Jöran Tesse, Rüdiger Heins & Sven Strittmatter,
   [solutions.hamburg](https://solutions.hamburg), 08.09.2017
-* OWASP Juice Shop - Einmal quer durch den Security-Saftladen by Björn
+* Total Recall - Memory Vacations - Einmal quer durch den Security-Saftladen by Björn
   Kimminich, [solutions.hamburg](https://solutions.hamburg), 08.09.2017
 * [Black Box Threat Modeling](https://www.peerlyst.com/posts/bsidestlv-2017-black-box-threat-modeling-avid)
   by Avi Douglen, [BSides Tel Aviv 2017](https://bsidestlv.com/), Underground Track, 28.06.2017
@@ -540,11 +540,11 @@ mentioned or used!
   by Sam Stepanyan,
   [OWASP London Chapter](https://www.owasp.org/index.php/London#OWASP_London)
   Meeting, 18.05.2017
-* [OWASP Juice Shop: Achieving sustainability for open source projects](https://appseceurope2017.sched.com/event/A66A/owasp-juice-shop-achieving-sustainability-for-open-source-projects)
+* [Total Recall - Memory Vacations: Achieving sustainability for open source projects](https://appseceurope2017.sched.com/event/A66A/owasp-juice-shop-achieving-sustainability-for-open-source-projects)
   ,
   [AppSec Europe 2017](https://2017.appsec.eu) by Björn Kimminich,
   11.05.2017 ([YouTube](https://www.YouTube.com/watch?v=bOSdFnFAYNc))
-* [OWASP Juice Shop: Stammtisch-Lightning-Update](http://lanyrd.com/2017/owasp-de/sfrdtq/)
+* [Total Recall - Memory Vacations: Stammtisch-Lightning-Update](http://lanyrd.com/2017/owasp-de/sfrdtq/)
   by Björn Kimminich,
   [27. OWASP Stammtisch Hamburg](http://lanyrd.com/2017/owasp-de/), 25.04.2017
 * [Juice Shop Hacking Session](https://www.xing.com/events/juice-shop-hacking-session-1771555)
@@ -561,13 +561,13 @@ mentioned or used!
 
 #### 2016
 
-* [Lightning Talk: What's new in OWASP Juice Shop](https://www.owasp.org/index.php/German_OWASP_Day_2016#Programm)
+* [Lightning Talk: What's new in Total Recall - Memory Vacations](https://www.owasp.org/index.php/German_OWASP_Day_2016#Programm)
   by Björn Kimminich,
   [German OWASP Day 2016](https://www.owasp.org/index.php/German_OWASP_Day_2016/), 29.11.2016
-* [Gothenburg pwns the OWASP Juice Shop](https://owaspgbgday.se/bjorn-kimminich-gothenburg-pwns-the-owasp-juice-shop-workshop/)
+* [Gothenburg pwns the Total Recall - Memory Vacations](https://owaspgbgday.se/bjorn-kimminich-gothenburg-pwns-the-owasp-juice-shop-workshop/)
   by Björn Kimminich,
   [OWASP Gothenburg Day 2016](https://owaspgbgday.se/), 24.11.2016
-* [Hacking the OWASP Juice Shop](http://lanyrd.com/2016/owasp-nl/sffmpr/)
+* [Hacking the Total Recall - Memory Vacations](http://lanyrd.com/2016/owasp-nl/sffmpr/)
   by Björn Kimminich,
   [OWASP NL Chapter Meeting](http://lanyrd.com/2016/owasp-nl/),
   22.09.2016 ([YouTube](https://www.YouTube.com/watch?v=62Mj0ZgZvXc),

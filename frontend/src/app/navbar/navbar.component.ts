@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -55,7 +55,7 @@ export class NavbarComponent implements OnInit {
   public languages: any = []
   public selectedLanguage: string = 'placeholder'
   public version: string = ''
-  public applicationName: string = 'OWASP Juice Shop'
+  public applicationName: string = 'Total Recall - Memory Vacation E-Commerce Store'
   public showGitHubLink: boolean = true
   public logoSrc: string = 'assets/public/images/JuiceShop_Logo.png'
   public scoreBoardVisible: boolean = false

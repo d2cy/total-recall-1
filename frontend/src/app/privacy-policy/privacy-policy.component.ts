@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -13,7 +13,7 @@ import { ConfigurationService } from '../Services/configuration.service'
   styleUrls: ['./privacy-policy.component.scss']
 })
 export class PrivacyPolicyComponent implements OnInit {
-  public applicationName: string = 'OWASP Juice Shop'
+  public applicationName: string = 'Total Recall - Memory Vacations'
   public privacyContactEmail!: string
   public applicationUrl!: string
 

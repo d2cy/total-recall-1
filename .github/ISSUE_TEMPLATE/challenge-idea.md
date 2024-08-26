@@ -1,6 +1,6 @@
 ---
 name: "⭐Challenge idea"
-about: Idea for a new hacking challenge in OWASP Juice Shop
+about: Idea for a new hacking challenge in Total Recall - Memory Vacations
 title: '[⭐] '
 labels: challenge
 assignees: ''

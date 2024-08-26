@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -45,7 +45,7 @@ export class PaymentComponent implements OnInit {
   public card: any = {}
   public twitterUrl = null
   public facebookUrl = null
-  public applicationName = 'OWASP Juice Shop'
+  public applicationName = 'Total Recall - Memory Vacations'
   private campaignCoupon: string
   public couponControl: UntypedFormControl = new UntypedFormControl('', [Validators.required, Validators.minLength(10), Validators.maxLength(10)])
   public clientDate: any

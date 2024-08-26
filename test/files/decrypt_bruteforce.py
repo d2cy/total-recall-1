@@ -1,4 +1,4 @@
-#  Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+#  Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
 #  SPDX-License-Identifier: MIT
 
 # Public Parameters

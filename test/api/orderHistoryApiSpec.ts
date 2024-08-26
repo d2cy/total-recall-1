@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -29,7 +29,7 @@ describe('/rest/order-history', () => {
             expect(json.data[0].totalPrice).toBe(8.96)
             expect(json.data[0].delivered).toBe(false)
             expect(json.data[0].products[0].quantity).toBe(3)
-            expect(json.data[0].products[0].name).toBe('Apple Juice (1000ml)')
+            expect(json.data[0].products[0].name).toBe('Mars Exploration')
             expect(json.data[0].products[0].price).toBe(1.99)
             expect(json.data[0].products[0].total).toBe(5.97)
             expect(json.data[0].products[1].quantity).toBe(1)

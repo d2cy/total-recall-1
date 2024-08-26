@@ -1,6 +1,6 @@
 # 🧠 Total Recall - Memory Vacation System 🧠
 
-Welcome to **Total Recall**, the premier provider of luxurious and totally real memory vacations! Why travel when you can just *think* you did? In this repo, you'll find everything you need to deploy your very own *Total Recall* Memory Vacation service. Spoiler: It's totally NOT the OWASP Juice Shop in disguise… or is it? You’ll never know once we’re done tweaking your memory. 😎
+Welcome to **Total Recall**, the premier provider of luxurious and totally real memory vacations! Why travel when you can just *think* you did? In this repo, you'll find everything you need to deploy your very own *Total Recall* Memory Vacation service. Spoiler: It's totally NOT the Total Recall - Memory Vacations in disguise… or is it? You’ll never know once we’re done tweaking your memory. 😎
 
 ## 🚀 About
 

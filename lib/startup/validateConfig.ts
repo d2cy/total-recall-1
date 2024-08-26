@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
+ * Copyright (c) 2014-2024 Bjoern Kimminich & the Total Recall - Memory Vacations contributors.
  * SPDX-License-Identifier: MIT
  */
 
@@ -12,12 +12,7 @@ import colors from 'colors/safe'
 // @ts-expect-error FIXME due to non-existing type definitions for yaml-schema-validator
 import validateSchema from 'yaml-schema-validator/src'
 
-const specialProducts = [
-  { name: '"Christmas Special" challenge product', key: 'useForChristmasSpecialChallenge' },
-  { name: '"Product Tampering" challenge product', key: 'urlForProductTamperingChallenge' },
-  { name: '"Retrieve Blueprint" challenge product', key: 'fileForRetrieveBlueprintChallenge', extra: { key: 'exifForBlueprintChallenge', name: 'list of EXIF metadata properties' } },
-  { name: '"Leaked Unsafe Product" challenge product', key: 'keywordsForPastebinDataLeakChallenge' }
-]
+const specialProducts = []
 
 const specialMemories = [
   { name: '"Meta Geo Stalking" challenge memory', user: 'john', keys: ['geoStalkingMetaSecurityQuestion', 'geoStalkingMetaSecurityAnswer'] },
