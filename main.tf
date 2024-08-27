@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-west-2"
-  access_key = "YOUR_ACCESS_KEY"  # Hardcoded access key (vulnerability)
-  secret_key = "YOUR_SECRET_KEY"  # Hardcoded secret key (vulnerability)
+  access_key = "nyan-cat-is-best-cat"  # Hardcoded access key (vulnerability)
+  secret_key = "temporary-secret-key-for-dev"  # Hardcoded secret key (vulnerability)
 }
 
 # Security Group with overly permissive rules
