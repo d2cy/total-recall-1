@@ -1,51 +1,38 @@
-FROM node:20-buster as installer
-COPY . /juice-shop
-WORKDIR /juice-shop
-RUN npm i -g typescript ts-node
-RUN npm install --omit=dev --unsafe-perm
-RUN npm dedupe --omit=dev
-RUN rm -rf frontend/node_modules
-RUN rm -rf frontend/.angular
-RUN rm -rf frontend/src/assets
-RUN mkdir logs
-RUN chown -R 65532 logs
-RUN chgrp -R 0 ftp/ frontend/dist/ logs/ data/ i18n/
-RUN chmod -R g=u ftp/ frontend/dist/ logs/ data/ i18n/
-RUN rm data/chatbot/botDefaultTrainingData.json || true
-RUN rm ftp/legal.md || true
-RUN rm i18n/*.json || true
+# Total Recall Memory Vacation System - Vulnerable Dockerfile
+# This Dockerfile is intentionally vulnerable to demonstrate Snyk's scanning capabilities.
 
-ARG CYCLONEDX_NPM_VERSION=latest
-RUN npm install -g @cyclonedx/cyclonedx-npm@$CYCLONEDX_NPM_VERSION
-RUN npm run sbom
+# Use a vulnerable and outdated Node.js base image with known vulnerabilities
+FROM node:10.0.0
 
-# workaround for libxmljs startup error
-FROM node:20-buster as libxmljs-builder
-WORKDIR /juice-shop
-RUN apt-get update && apt-get install -y build-essential python3
-COPY --from=installer /juice-shop/node_modules ./node_modules
-RUN rm -rf node_modules/libxmljs/build && \
-  cd node_modules/libxmljs && \
-  npm run build
+# Set working directory
+WORKDIR /app
 
-FROM gcr.io/distroless/nodejs20-debian11
-ARG BUILD_DATE
-ARG VCS_REF
-LABEL maintainer="Bjoern Kimminich <bjoern.kimminich@owasp.org>" \
-    org.opencontainers.image.title="Total Recall - Memory Vacations" \
-    org.opencontainers.image.description="Probably the most modern and sophisticated insecure web application" \
-    org.opencontainers.image.authors="Bjoern Kimminich <bjoern.kimminich@owasp.org>" \
-    org.opencontainers.image.vendor="Open Worldwide Application Security Project" \
-    org.opencontainers.image.documentation="https://help.owasp-juice.shop" \
-    org.opencontainers.image.licenses="MIT" \
-    org.opencontainers.image.version="17.1.0" \
-    org.opencontainers.image.url="https://owasp-juice.shop" \
-    org.opencontainers.image.source="https://github.com/juice-shop/juice-shop" \
-    org.opencontainers.image.revision=$VCS_REF \
-    org.opencontainers.image.created=$BUILD_DATE
-WORKDIR /juice-shop
-COPY --from=installer --chown=65532:0 /juice-shop .
-COPY --chown=65532:0 --from=libxmljs-builder /juice-shop/node_modules/libxmljs ./node_modules/libxmljs
-USER 65532
+# Copy application files
+COPY . .
+
+# Install dependencies with a command that ignores potential vulnerabilities
+RUN npm install --legacy-peer-deps
+
+# Install vulnerable dependencies manually
+RUN npm install lodash@4.17.11 && \
+    npm install express@4.16.0 && \
+    npm install axios@0.18.0
+
+# Expose an application port without restricting network access
 EXPOSE 3000
-CMD ["/juice-shop/build/app.js"]
+
+# Set environment variables in plaintext (vulnerable to exposure)
+ENV APP_ENV=production
+ENV SECRET_KEY=myveryinsecuresecretkey
+
+# Use a vulnerable version of npm and Node.js to introduce additional security issues
+RUN npm install -g npm@6.4.1
+
+# Run as root user (not recommended)
+USER root
+
+# Copy sensitive files without proper permission handling
+COPY config/secrets.json /app/config/secrets.json
+
+# Insecure entry point
+CMD ["npm", "start"]
