@@ -86,28 +86,17 @@ hackingInstructor:
   hintPlaybackSpeed: normal # Options: faster fast normal slow slower
 products:
   -
-    name: 'Pilot a Spaceship in the Andromeda Galaxy'
-    description: ''
-    price: 2.92
-    quantity: 5
-    limitPerUser: 5
-    image: total-recall-pilot-a-spaceship.jpg
-    useForChristmasSpecialChallenge: true
-    reviews:
-      - { text: 'text', author: rapper }
-      - { text: 'text', author: jim }
-  -
     name: 'Explore Mars'
-    description: 'mbark on the ultimate adventure to the Red Planet, where the thrill of exploring Mars is just a memory away with Total Recalls immersive vacation experience.'
-    price: 1.99
+    description: 'Embark on the ultimate adventure to the Red Planet, where the thrill of exploring Mars is just a memory away with Total Recalls immersive vacation experience.'
+    price: 7999.99
     image: total-recall-explore-mars.jpg
     urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
     reviews:
       - { text: 'Far out man!', author: jim }
   -
     name: 'Become a Covert Operative'
-    description: 'text'
-    price: 1.99
+    description: 'Step into the shoes of a covert operative on a mission to seek justice against dark agents, navigating a world of espionage, deception, and high-stakes confrontations.'
+    price: 5999.99
     image: total-recall-covert-ops.jpg
     fileForRetrieveBlueprintChallenge: JuiceShop.stl # ...to blueprint file type
     exifForBlueprintChallenge:
@@ -115,41 +104,64 @@ products:
     reviews:
       - { text: 'Far out man!', author: jim }
   -
-    name: '1800s Steel Congolomerate Tycoon'
+    name: 'Enter a Title'
     description: 'text'
-    price: 1.99
-    image: total-recall-tycoon.jpg
+    price: 4999.99
+    image: total-recall-minotaur-hunter.jpg
     keywordsForPastebinDataLeakChallenge:
       - hueteroneel
       - eurogium edule
     reviews:
       - { text: 'Far out man!', author: jim }
   -
-    name: 'Run the Maze as a Minotaur Huntress'
-    description: 'text'
-    price: 1.99
-    image: total-recall-minotaur-hunter.jpg
-    reviews:
-      - { text: 'Far out man!', author: jim }
-  -
-    name: 'Be a Pharoah for a Week'
-    description: 'text'
-    price: 1.99
+    name: 'Be a Pharoah Samurai Warrior Type of Hybrid for a Week!'
+    description: 'Live the life of a Pharaoh Samurai warrior in ancient Egypt, mastering a blend of martial arts and mystical powers to defend your kingdom and uphold the honor of your lineage in a world of gods and warriors.'
+    price: 4599.99
     image: total-recall-pharoah.jpg
     reviews:
       - { text: 'Far out man!', author: jim }
   -
     name: 'Serve as a 1980s Synthwave Detective'
-    description: 'text'
-    price: 1.99
+    description: 'Experience the neon-soaked streets of 1980s Miami as a synthwave detective, solving crimes amidst a backdrop of pulsating beats, retro-futuristic aesthetics, and dangerous underworld figures.'
+    price: 3999.99
     image: total-recall-80s-detective.jpg
     reviews:
       - { text: 'Far out man!', author: jim }
   -
     name: 'Be a Reclusive Botanist Stranded in a Carniverous Plant Jungle'
-    description: 'text'
-    price: 1.99
+    description: 'Immerse yourself in a survival adventure as a botanist stranded in a jungle filled with carnivorous plants, using your knowledge and skills to navigate and find a way to escape.'
+    price: 3999.99
+    quantity: 3
     image: total-recall-botanist.jpg
+    reviews:
+      - { text: 'Far out man!', author: jim }
+  -
+    name: 'I am a Christmas Challenge Product'
+    description: 'You found me. Horay!'
+    price: 2999.99
+    image: apple-juice.jpg
+    useForChristmasSpecialChallenge: true
+    reviews:
+      - { text: 'Far out man!', author: jim }
+  -
+    name: 'Pilot a Spaceship in the Andromeda Galaxy'
+    description: 'A thrilling memory vacation experience that lets you pilot a spaceship through the Andromeda Galaxy, exploring uncharted territories and encountering extraterrestrial phenomena.'
+    price: 3999.99
+    image: total-recall-pilot-a-spaceship.jpg
+    reviews:
+      - { text: 'Far out man!', author: jim }
+  -
+    name: 'Run the Maze as a Minotaur Huntress'
+    description: 'Embark on a thrilling adventure as a huntress who must explore and survive the treacherous Minotaur maze, relying on your wits and skills to overcome deadly traps and mythical dangers.'
+    price: 4999.99
+    image: total-recall-minotaur-hunter.jpg
+    reviews:
+      - { text: 'Far out man!', author: jim }
+  -
+    name: 'Preside Over an Economic Empire as an 1800s Steel Conglomerate Tycoon'
+    description: 'Step into the shoes of a powerful captain of industry, navigating fierce economic battles and outmaneuvering rivals to build your empire and dominate the market.'
+    price: 2999.99
+    image: total-recall-tycoon.jpg
     reviews:
       - { text: 'Far out man!', author: jim }
 memories:

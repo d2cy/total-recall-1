@@ -6,6 +6,14 @@
 
 @import 'theme';
 
+body {
+  background-color: #fff !important;
+}
+
+.mat-sidenav-container {
+  background-color: #fff; 
+}
+
 @mixin link-theme($theme) {
   a:link,
   a:visited {
