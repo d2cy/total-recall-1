@@ -5,8 +5,8 @@ provider "aws" {
 }
 
 # Security Group with overly permissive rules
-resource "aws_security_group" "juice_shop_sg" {
-  name        = "juice_shop_sg"
+resource "aws_security_group" "total_recall_sg" {
+  name        = "total_recall_sg"
   description = "Allow all inbound traffic"
 
   ingress {
@@ -25,17 +25,17 @@ resource "aws_security_group" "juice_shop_sg" {
 }
 
 # AWS EC2 Instance with Juice Shop app
-resource "aws_instance" "juice_shop" {
+resource "aws_instance" "total_recall" {
   ami           = "ami-0c55b159cbfafe1f0"  # Use an appropriate AMI ID for your region
   instance_type = "t2.micro"
-  vpc_security_group_ids = [aws_security_group.juice_shop_sg.id]
+  vpc_security_group_ids = [aws_security_group.total_recall_sg.id]
 
   # User data to install Docker and run the Juice Shop app
   user_data = <<-EOF
               #!/bin/bash
               sudo apt-get update -y
               sudo apt-get install docker.io -y
-              sudo docker run -d -p 80:3000 bkimminich/juice-shop
+              sudo docker run -d -p 80:3000 bkimminich/total-recall
               EOF
 
   tags = {
@@ -44,12 +44,12 @@ resource "aws_instance" "juice_shop" {
 }
 
 # S3 Bucket without encryption
-resource "aws_s3_bucket" "juice_shop_bucket" {
-  bucket = "juice-shop-unencrypted-bucket"
+resource "aws_s3_bucket" "total_recall_bucket" {
+  bucket = "total-recall-unencrypted-bucket"
   acl    = "private"  # Unencrypted S3 bucket (vulnerability)
 }
 
 # Outputs for demo purposes
 output "instance_ip" {
-  value = aws_instance.juice_shop.public_ip
+  value = aws_instance.total_recall.public_ip
 }

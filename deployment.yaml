@@ -1,20 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: juice-shop
+  name: total-recall
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: juice-shop
+      app: total-recall
   template:
     metadata:
       labels:
-        app: juice-shop
+        app: total-recall
     spec:
       containers:
-      - name: juice-shop
-        image: bkimminich/juice-shop:latest
+      - name: total-recall
+        image: bkimminich/total-recall:latest
         ports:
         - containerPort: 3000
         securityContext:
